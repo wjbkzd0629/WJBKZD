@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股质押风控研究"
+  short_description: "生成A股股票质押准入、续作、贷后监测及授信尽调报告"
+  default_prompt: "使用 $pledge-risk-research 对指定A股上市公司开展截至今日的股票质押式回购深度风控研究；报告开头如实声明撰写软件与实际AI模型，生成带权威来源且不含个人环境信息的Markdown成品；仅在用户要求时验证交付到Obsidian或指定目录。"
