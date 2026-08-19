@@ -1,0 +1,7 @@
+interface:
+  display_name: "公司近一年公告全文概要"
+  short_description: "抓取并精读A股公司近12个月官方公告，写入Obsidian Inbox"
+  default_prompt: "Use $company-announcement-digest to fetch and summarize the past 12 months of official A-share announcements for a company and deliver the Markdown report to my Obsidian Inbox."
+
+policy:
+  allow_implicit_invocation: true
